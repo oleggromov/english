@@ -13,7 +13,7 @@ How to learn any language in six months
 
 ### Effortless English
 
-((./2016-04-12-effortless-english-conclusion.md Conclusion))
+[Conclusion](./2016-04-12-effortless-english-conclusions.md)
 
 The AJ Hoge idea is simple and, maybe, powerful. He says one should learn English by listening to the natural speech, not by reading (as long as he wants to learn how to speak), especially not by reading textbooks with synthetic phrases and dialogues. He wants about $40 a month for online membership in his courses, so I'd like to test his approach before joining.
 
